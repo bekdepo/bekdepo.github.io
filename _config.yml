@@ -6,8 +6,8 @@ version: 2.0.0
 timezone: Europe/Madrid
 
 # Configuracion
-url: http://jorgeatgu.com/blog
-baseurl: /blog
+url: bekdepo.github.io/
+baseurl: /
 paginate: 5
 paginate_path: "page:num"
 highlighter: pygments
