@@ -10,7 +10,6 @@ url: bekdepo.github.io/
 baseurl: /
 paginate: 5
 paginate_path: "page:num"
-highlighter: pygments
 markdown: kramdown
 urliconosheader: ../img/social-sprite.svg
 urliconos: /img/social-sprite.svg
